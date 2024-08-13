@@ -11,7 +11,7 @@ To understand how to use this starter kit, follow the tutorial at [https://worka
 * *src*: Scripts files
 * *tilesets*: All tilesets
 * *map.tmj*: Map file
-* *map.png*: The map thumbnail displayed on the in-game map information
+* *map.png*: The map thumbnail displayed on the in-game map information.
 
 If you want to use more than one map file, just add the new map file on root or in a folder.
 
